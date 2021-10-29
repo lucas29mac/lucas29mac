@@ -1,31 +1,27 @@
-# Welcome!
+# BEM VINDO A MACHADOLÂNDIA !!!
 
  
 
-## I'm machado couto !!!
+## OI EU SOU O GOKU !!!
 
+![v-dragon-ball-goku-1210x540](https://user-images.githubusercontent.com/61924880/139352810-17efae6b-0434-4aec-9b6b-5cb156c3bc34.jpg)
+
+# MENTIRA, EU SOU O MACHADO COUTO !!! :)
  
+ Coisas interessantes a meu respeito:
 
-:computer: I'm Front-End Developer!
+💻 Aprendendo Python hehehe
 
-:house_with_garden: I’m from Brazil.
+🇧🇷 Brasileiro nato !
 
-:books: I’m currently learning everything.
+👨‍🎓 IMEANO
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+📡 Cursando engenharia de comunicações.
 
- 
+🤖 ROBOIME.
 
-## About me
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif width="30"> Sempre em busca de conhecimento.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
-
-
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
+- Obrigado pela visita ! Divirta-se! 
 
 ----------------------------------------------------------------------------------
